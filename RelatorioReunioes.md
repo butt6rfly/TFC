@@ -13,7 +13,7 @@ Conversa com os professores orientadores ***Sofia Naique***, ***Pedro Alves*** e
 ---
 #### *20 de julho de 2026, Microsoft Teams*
 
-Reunião com as professores orientadoras **Sofia Naique** e ***Maria Almeida Silva*** para definir o TFC.
+Reunião com as professoras orientadoras **Sofia Naique** e ***Maria Almeida Silva*** para definir o TFC.
 
 ---
 #### *24 de julho de 2026, Microsoft Teams*
@@ -36,3 +36,8 @@ Foi demonstrado interesse por parte da Dr. Margarida na proposta de desenvolverm
 #### *14 de outubro de 2026, Campus Neurológico (CNS) - Torres Vedras*
 
 Visita às instalações do Campus Neurológico de Torres Vedras, com os ***professores orientadores***, guiados pelos enfermeiros ***Pedro Resende***, ***Ricardo Neves*** e ***Marta Pires***.
+
+----
+#### *27 de outubro de 2026, Microsoft Teams*
+
+Reunião com os ***professores orientadores*** e as doutoras ***Margarida Rodrigues, Filipa de Pona e Daniela Sistelo*** sobre a Comissão de Ética e a viabilidade de desenvolver uma ferramenta NPL para o TFC.
